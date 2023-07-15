@@ -1,7 +1,5 @@
 sources:
-  - Rubik.glyphs
-  - Rubik-Italic.glyphs
+  - RL-Madena.glyphs
 axisOrder:
-  - wght
-  - ital
-familyName: Rubik
+  - slnt
+familyName: RL-Madena
